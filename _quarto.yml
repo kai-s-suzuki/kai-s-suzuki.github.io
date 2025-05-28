@@ -1,0 +1,19 @@
+project: 
+  type: website
+  output-dir: docs
+
+website: 
+  title: "Kai Suzuki"
+  navbar: 
+    left: 
+      - href: index.qmd
+        text: Home
+      - aboutme.qmd
+      - project.qmd
+      - running.qmd
+      - resume.qmd
+
+format:
+  html: 
+    theme: brightside
+    
