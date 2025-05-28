@@ -1,0 +1,15 @@
+---
+title: "index"
+format: html
+image: profile.png
+about: 
+  template: broadside
+  links: 
+    - text: LinkedIn
+      href: https://www.linkedin.com/in/kai-suzuki
+    - text: GitHub
+      href: https://github.com/kai-s-suzuki
+    - text: Email
+      href: mailto:kaisuzuki@ucsb.edu
+---
+
