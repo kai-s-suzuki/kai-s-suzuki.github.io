@@ -1,6 +1,9 @@
 project: 
   type: website
   output-dir: docs
+  resources: 
+    - pdfs/
+  
 
 website: 
   title: "Kai Suzuki"
