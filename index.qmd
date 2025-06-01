@@ -12,6 +12,19 @@ about:
     - text: Email
       href: mailto:kaisuzuki@ucsb.edu
 ---
-Hi! My name is Kai Suzuki and I am a third-year Environmental Studies (B.S) student at the University of California, Santa Barbara. I am very passionate about conservation; I have interned at the Storke Ranch Vernal Pools performing restoration and have contributed to long-term monitoring of aquatic invertebrates at the North Campus Open Space, alongside the Cheadle Center.
 
-Outside of school and work, you can find me drinking coffee, cooking, gardening, running, and watching baseball.
+# Education
+Environmental Studies, B.S.
+University of California, Santa Barbara (2024-2026)
+
+Natural Sciences, A.S. 
+Orange Coast College (2022-2024)
+
+# Experience
+Aquatic Invertebrate Lab Intern
+Cheadle Center for Biodiversity & Ecological Restoration (Jan 2025-Present)
+
+Restoration Intern
+Storke Ranch Open Space (Jan-Mar 2025)
+
+
