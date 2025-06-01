@@ -23,4 +23,5 @@ website:
 format:
   html: 
     theme: brightside
+    page-layout: full
     

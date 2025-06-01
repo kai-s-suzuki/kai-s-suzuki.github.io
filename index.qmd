@@ -6,10 +6,13 @@ about:
   template: broadside
   links: 
     - text: LinkedIn
+      icon: linkedin
       href: https://www.linkedin.com/in/kai-suzuki
     - text: GitHub
+      icon: github
       href: https://github.com/kai-s-suzuki
     - text: Email
+      icon: envelope-fill
       href: mailto:kaisuzuki@ucsb.edu
 ---
 
