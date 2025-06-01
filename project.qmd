@@ -3,3 +3,12 @@ title: "Project"
 format: html
 ---
 
+# Conservation Plan
+
+For Professor Dawn Murray's Conservation Planning course at UC Santa Barbara, four of my classmates and I constructed a water resiliency plan for a Chumash-owned property in Lompoc, California. 
+
+# Testimony
+
+In this testimony project, my partner and I created and recited a written piece of legislation advocating for co-management of public lands, specifically in Yosemite and Great Smokies National Parks. Professor Deborah Williams, J.D., provided immense support and expertise in the process. 
+
+<iframe src="..pdfs/ENVS-159_Written_Testimony.pdf" width="100%" height="600px">
