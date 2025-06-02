@@ -3,12 +3,52 @@ title: "Projects"
 format: html
 ---
 
-# Conservation Plan
+# Coding
 
-For Professor Dawn Murray's Conservation Planning course at UC Santa Barbara, four of my classmates and I constructed a water resiliency plan for a Chumash-owned property in Lompoc, California. 
+Using skills learned in An Bui's Statistics for Environmental Studies course, I tracked my personal data and made a visualization. Caffeine consumption was tracked and analyzed by the amount of classes I attended.
+
+```{r setup, message=FALSE}
+#| echo: false
+library(tidyverse)
+library(here)
+library(gt)
+library(janitor)
+library(readxl)
+library(dplyr)
+mydata <- read_csv("data/ENVS-193DS_caffeine_hw2.csv")
+```
 
 ```{r}
+#| echo: false
+# data wrangling
+mydata_clean <- mydata |> # start mydata dataset
+  filter(Classes %in% c("0", "1", "2")) |> # filter for 0, 1, or 2 classes
+  mutate(Classes = as_factor(Classes)) |> # make sure classes (numerical) are being read in as a factor
+  select(Classes, `Caffeine (mg)`, Ounces) |> # select columns of interest
+  rename(caffeine_mg = `Caffeine (mg)`) # renaming caffeine column for ease
+```
 
+```{r}
+#| echo: false
+# plot creation
+ggplot(data = mydata_clean, # using the clean dataset
+       aes(x = Classes, # setting x axis as classes
+           y = caffeine_mg, # setting y axis as caffeine in mg
+           color = Classes, # coloring by classes, so 0/1/2 have their own colors
+           shape = Classes, # making sure 0/1/2 have their own shapes
+          fill = Classes)) + # making sure 0/1/2 are filled with color
+  geom_boxplot() + # making boxplots
+  geom_jitter(height = 0, # making sure the points don't move vertically
+              width = 0.1) + # limiting how much the points move horizontally
+  labs(y = "Caffeine (mg)") + # relabeling the y-axis
+  theme_get() + # changing the theme
+  scale_color_manual(values = c("0" = "darkgreen", # manually coloring 0, 1, and 2
+                                "1" = "tan3",
+                                "2" = "chocolate4")) +
+   scale_shape_manual(values = c("0" = 17, "1" = 18, "2" = 19)) + # making data points different shapes
+  scale_fill_manual(values = c("0" = "#99b99d", 
+                               "1" = "#e9c76b", 
+                               "2" = "#c2a47e")) # filling in boxplots
 ```
 
 
