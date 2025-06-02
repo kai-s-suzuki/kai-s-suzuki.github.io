@@ -8,7 +8,7 @@ project:
 website: 
   title: "Kai Suzuki"
   navbar: 
-    left: 
+    right: 
       - href: index.qmd
         text: Home
       - href: aboutme.qmd
@@ -24,6 +24,6 @@ website:
 format:
   html: 
     theme: styles.scss
-    title-block-style: "custom"
+    title-block-style: "default"
     page-layout: full
     

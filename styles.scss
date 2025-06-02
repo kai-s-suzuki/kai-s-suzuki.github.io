@@ -30,7 +30,22 @@ $code-color: $pink; // inline code text color
 
 //title text-align: 
 .title {
+  font-family: Tahoma;
   font-size: 3rem;
   font-weight: bold;
   margin-bottom: 1rem;
+}
+
+//tab fonts
+.navbar-nav .nav-link {
+  font-family: Tahoma;
+  font-size: 1.1rem;
+  font-weight: 500;
+}
+
+//title 
+.navbar-brand {
+  font-family: Actor;
+  font-size: 3rem;
+  font-weight: bold;
 }

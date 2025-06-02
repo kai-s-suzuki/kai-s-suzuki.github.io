@@ -7,6 +7,11 @@ format: html
 
 For Professor Dawn Murray's Conservation Planning course at UC Santa Barbara, four of my classmates and I constructed a water resiliency plan for a Chumash-owned property in Lompoc, California. 
 
+```{r}
+
+```
+
+
 # Testimony
 
 In this testimony project, my partner and I created and recited a written piece of legislation advocating for co-management of public lands, specifically in Yosemite and Great Smokies National Parks. Professor Deborah Williams, J.D., provided immense support and expertise in the process.
