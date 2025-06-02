@@ -2,3 +2,4 @@
 title: "Resume"
 format: html
 ---
+<iframe src="docs/pdfs/Suzuki_Kai_Resume.pdf" width="100%" height="600px">

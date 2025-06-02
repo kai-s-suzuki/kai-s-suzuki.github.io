@@ -19,9 +19,11 @@ website:
         text: Running
       - href: resume.qmd
         text: Resume
+    
 
 format:
   html: 
-    theme: brightside
+    theme: 
+    - styles.scss
     page-layout: full
     
