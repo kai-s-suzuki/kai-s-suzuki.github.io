@@ -23,7 +23,7 @@ website:
 
 format:
   html: 
-    theme: 
-    - styles.scss
+    theme: styles.scss
+    title-block-style: "custom"
     page-layout: full
     

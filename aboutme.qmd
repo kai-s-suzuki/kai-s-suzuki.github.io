@@ -9,7 +9,7 @@ At UCSB, I have contributed to local restoration efforts at the Storke Ranch Ope
 
 Outside of school and work, you can find me drinking coffee, cooking, gardening, running, and watching baseball.
 
-![Kai with coffee](/media/kai_coffee){.small-img}
+![Kai with coffee](/media/kai_coffee.jpg){.small-img}
 ![Triangoletti pasta with sage leaves and guanciale](/media/pasta.jpg){.small-img}
 ![Tomatoes](/media/tomatoes.JPG){.small-img}
 ![Kai on Gaviota Peak](/media/kai_hike.jpg){.small-img}
