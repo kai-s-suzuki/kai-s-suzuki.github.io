@@ -55,6 +55,7 @@ File structure:
 │   └── ENVS-193DS_caffeine_hw2.csv          # personal data used in 'projects' tab
 │
 ├── media
+│   ├── elwood_mesa.jpg                      # jpg image of elwood mesa sunset
 │   ├── kai_coffee.jpg                       # jpg image of me with coffee
 │   ├── kai_escon.JPG                        # jpg image of me at Es Con Field
 │   ├── kai_hike.jpg                         # jpg image of me on top of Gaviota Peak
