@@ -18,7 +18,7 @@ Social media discourse in 2025 about a [running influencer collaborating with th
 ## Where you might see me running!
 
 Lots of activity in the beautiful Elwood Mesa:
-![Elwood Mesa Sunset](media/elwood_mesa.jpg)
+![Elwood Mesa Sunset](media/elwood_mesa.jpg){.small-img}
 
 &copy; Strava  
 
