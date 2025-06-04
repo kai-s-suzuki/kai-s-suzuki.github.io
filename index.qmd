@@ -16,6 +16,9 @@ about:
       href: mailto:kaisuzuki@ucsb.edu
 ---
 
+# About Me
+I am an undergraduate studying Environmental Studies with a deep passion for conservation. I am always looking for opportunities in fieldwork and restoration projects, particularly in California coastal ecosystems. Feel free to contact me via LinkedIn or Email!
+
 # Education
 **Environmental Studies, B.S.**  
 University of California, Santa Barbara (2024-2026)

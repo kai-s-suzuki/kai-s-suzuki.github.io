@@ -3,11 +3,11 @@ title: "About"
 format: html
 ---
 
-Hi! My name is Kai Suzuki and I am a third-year Environmental Studies (B.S) student at the University of California, Santa Barbara. I have had my mind set on studying the environment, and more broadly conservation goals, since a young age. I spent two years at Orange Coast College, where I received my Associates of Science (A.S.) degree. 
+Hi! My name is Kai Suzuki and I am a third-year Environmental Studies (B.S) student at the University of California, Santa Barbara. I have had my mind set on studying the environment, and more broadly conservation goals, since a young age. I spent two years at Orange Coast College, where I received my Associates of Science (A.S.) degree. My environment growing up is something I cherish and is a deep inspiration to my academic goals. 
 
-At UCSB, I have contributed to local restoration efforts at the Storke Ranch Open Space and the North Campus Open Space. I will also be starting a position at the Department of Public Worms in Summer 2025, where I am excited to help make the campus a more sustainable and food-sovereign place. 
+At UCSB, I have contributed to local restoration efforts at the Storke Ranch Open Space and the North Campus Open Space. I will also start a position as a Worm Wrangler at the Department of Public Worms in Summer 2025, where I am excited to help make the campus a more sustainable and food-sovereign place. 
 
-Outside of school and work, you can find me drinking coffee, cooking, gardening, running, and watching baseball. 
+Outside of school and work, you can find me drinking coffee, cooking, gardening, running, and watching baseball (Go Angels!).
 
 ![Kai with coffee](/media/kai_coffee.jpg){.small-img}
 ![Triangoletti pasta with sage leaves and guanciale](/media/pasta.jpg){.small-img}

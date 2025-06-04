@@ -16,7 +16,7 @@ $navbar-hl: $turqoise; // highlight color when hovering over navbar links
 $body-bg: $cream; // page background 
 $body-color: $coffee; // page text 
 $footer-bg: $cream; // footer 
-$link-color: $dark-green; // hyperlinks 
+$link-color: $sage-green; // hyperlinks 
 
 // Inline code
 $code-bg: $cream; // inline code background color
@@ -37,7 +37,10 @@ $code-color: $pink; // inline code text color
 }
 
 //tab fonts
-.navbar-nav .nav-link.active {
+.navbar-nav .nav-link,
+.navbar-nav .nav-link.active,
+.navbar-nav .navbar-link,
+.navbar-nav .navbar-link.active {
   font-family: Tahoma;
   font-size: 1.1rem;
   font-weight: 500;

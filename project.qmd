@@ -5,7 +5,9 @@ format: html
 
 # Coding
 
-Using skills learned in An Bui's Statistics for Environmental Studies course, I tracked my personal data and made a visualization. Caffeine consumption was tracked and analyzed by the amount of classes I attended.
+Using skills learned in An Bui's Statistics for Environmental Studies course, I tracked my personal data and made a corresponding visualization. I tracked the amount of caffeine I consumed each day in mg, and compared it with the number of classes I attended in that specific day, among other variables. A boxplot and jitterplot are displayed on the same graph to display summarized and underlying data. 
+
+I learned that my consumption generally
 
 ```{r setup, message=FALSE}
 #| echo: false
@@ -15,7 +17,7 @@ library(gt)
 library(janitor)
 library(readxl)
 library(dplyr)
-mydata <- read_csv("data/ENVS-193DS_caffeine_hw2.csv")
+mydata <- read_csv("ENVS-193DS_caffeine_hw2.csv")
 ```
 
 ```{r}
@@ -54,6 +56,7 @@ ggplot(data = mydata_clean, # using the clean dataset
 
 # Testimony
 
-In this testimony project, my partner and I created and recited a written piece of legislation advocating for co-management of public lands, specifically in Yosemite and Great Smokies National Parks. Professor Deborah Williams, J.D., provided immense support and expertise in the process.
+In this testimony project, my partner and I created and recited a written piece of legislation advocating for co-management of public lands with Indigenous people, specifically in Yosemite and Great Smokies National Parks. This project truly encapsulated how informative this course is, which would not be the same if not taught by Professor Deborah Williams. Extensive research was done with her support. Practice of a testimony speech with follow-up questions under simulated and timed conditions tested our preparation and expertise on the topic. 
+
 
 <iframe src="docs/pdfs/ENVS-159_Written_Testimony.pdf" width="100%" height="600px">
